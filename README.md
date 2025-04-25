@@ -1,8 +1,8 @@
 # I'm Salakksson
 
-- ✅ Recreational C developer
+- ✅ Recreational bikeshedder
 - ✅ Professional E-maxxer 
-- ✅ Eternal bikeshedder
+- ✅ Eternal C developer
 
 ## Projects
 
