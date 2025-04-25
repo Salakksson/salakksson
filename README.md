@@ -1,16 +1,15 @@
-## Hi there 👋
+# I'm Salakksson
 
-<!--
-**Salakksson/salakksson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✅ Recreational C developer
+- ✅ Professional E-maxxer 
+- ✅ Eternal bikeshedder
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✅ [autoc](https://github.com/Salakksson/autoc) - C/C++ *style* project build tool
+- ❔ [tau](https://github.com/Salakksson/tau) - Work in progress programming language
+  
+## Dotfiles (what a nerd)
+
+- ⌨️ [emacs](https://github.com/salakksson/.emacs.d/)
+- 🖥️ [hyprland & misc](https://github.com/salakksson/dots/)
