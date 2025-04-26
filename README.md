@@ -7,6 +7,7 @@
 ## Projects
 
 - ✅ [autoc](https://github.com/Salakksson/autoc) - C/C++ *style* project build tool
+- ✅ [fastdep](https://github.com/Salakksson/fastdep.sh) - C/C++ dependancy caching script
 - ❔ [tau](https://github.com/Salakksson/tau) - Work in progress programming language
 
 ## Dotfiles (what a nerd)
