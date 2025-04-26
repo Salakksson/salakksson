@@ -10,9 +10,9 @@
 - ✅ [fastdep](https://github.com/Salakksson/fastdep.sh) - C/C++ dependancy caching script
 - ❔ [tau](https://github.com/Salakksson/tau) - Work in progress programming language
 
-## Dotfiles (what a nerd)
+## Dotfiles
 
-- ⌨️ [emacs](https://github.com/salakksson/.emacs.d/) - Cooked al dende
+- ⌨️ [emacs](https://github.com/salakksson/.emacs.d/) - Professional E-maxxing config
 - 🖥️ [hyprland & misc](https://github.com/salakksson/dots/) - General configs & scripts
 
 ![](https://raw.githubusercontent.com/Salakksson/github-stats/refs/heads/master/generated/overview.svg#gh-dark-mode-only)
