@@ -8,7 +8,7 @@
 
 - ✅ [autoc](https://github.com/Salakksson/autoc) - C/C++ *style* project build tool
 - ✅ [fastdep](https://github.com/Salakksson/fastdep.sh) - C/C++ dependancy caching script
-- ✅ [pacman-declare](https://github.com/Salakksson/pacman-declare) - Declarative pacman wrapper
+- ✅ [pamde](https://github.com/Salakksson/pamde) - Declarative pacman wrapper
 - ❔ [tau](https://github.com/Salakksson/tau) - Work in progress programming language
 
 ## Dotfiles
