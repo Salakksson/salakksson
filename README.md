@@ -7,6 +7,7 @@
 ## Projects
 
 - ✅ [autoc](https://github.com/Salakksson/autoc) - C/C++ *style* project build tool
+- ✅ [filed](https://github.com/Salakksson/filed) - Dired style file manager
 - ✅ [fastdep](https://github.com/Salakksson/fastdep.sh) - C/C++ dependancy caching script
 - ✅ [pamde](https://github.com/Salakksson/pamde) - Declarative pacman wrapper
 - ❔ [tau](https://github.com/Salakksson/tau) - Work in progress programming language
